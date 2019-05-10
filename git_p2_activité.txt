@@ -4,5 +4,5 @@ Activité Partie 2 : Partager un repository sur GitHub
 L'URL de mon repository :
 (exemple : https://github.com/marcgg/Simple-Placeholder)
 
-L’URL du repository GitHub créé spécialement pour cette activité (format: https://github.com/votrenomd'utilisateur/votreprojet) :
-	
+git remote add origin 		https://github.com/ndoumbeJaures/TesteOC_2019.git
+
