@@ -1,0 +1,79 @@
+
+		initiation à la gestion de projet digital
+
+	
+	Partie 1 - Quels types de projets web allez-vous gérer?
+
+1. Qu’est-ce qu’un projet web?
+2. Appréhendez les différents types de produits web
+3. Identifiez les acteurs d’un projet web
+4. Découvrez les méthodologies de gestion de projet
+	
+	Partie 2 - Maîtrisez les 5 phases d’un projet en cascade
+
+1. Initialisation : étudiez la faisabilité d’un projet
+2. Lancement : démarrez le projet
+3. Conception : formalisez le produit
+4. Production : réalisez le produit en conformité avec le cahier des charges
+5. Exploitation : maintenez le projet
+
+
+	Partie 3 - Devenez un bon chef de projet
+
+1. Comment délimiter votre projet ?
+2. Comment concevoir votre projet ?
+3. Comment piloter votre projet ?
+4. Quels livrables devez-vous collecter sans les réaliser ?
+5. Menez votre projet avec succès
+
+
+
+
+#############################################################################""
+Exercice 200_1
+	répondu faux : 1, 13, 14, 15, 17, 19, 22, 25, 29, 31, 35, 36, 38, 39
+	51 points sur 91 (minimum requis 80 %, 72 points)
+
+Exercice 300_1
+	répondu faux aux questions : 3, 5, 7, 8, 14
+	25 points sur 38 (minimum requis 60 %, 22 points)
+
+Exercice 310_1
+	répondu : 16, 17, 19, 20, 27, 28, 29, 30, 31, 32 
+	répondu faux : 6, 7, 11, 15, 18, 21, 22, 24, 25, 26, 34
+	27 points sur 78 (minimum requis 60 %, 46 points)
+
+Exercice 400_1
+	pas répondu : 4, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 27, 28, 29, 30 
+	répondu faux : 7, 10
+	18 points sur 70 (minimum requis 80 %, 56 points)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
